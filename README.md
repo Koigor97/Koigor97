@@ -13,7 +13,6 @@ but my first certificate (on going) is in Web and Computer Programming. However,
 because the tech world is never static, it's always up to something 😆.
 ___
 ## The Technologies I know:
-| ----- | ----- | ----- |
 | HTML | CSS | SASS | 
 | PYTHON| JAVASCRIPT | C# |
 | GIT/GITHUB |   |   |
