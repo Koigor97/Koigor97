@@ -15,7 +15,7 @@ ___
 ## The Technologies I know:
 | HTML | CSS | SASS | 
 | PYTHON| JAVASCRIPT | C# |
-| GIT/GITHUB |   |   |
+| GIT/GITHUB | ...  |  ... |
 ___
 
 <!--
