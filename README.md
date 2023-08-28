@@ -1,4 +1,6 @@
 ### Hey.. I'm Koigor 😎, nice to meet you 🤝
+🌱 I’m currently learning ... and 👯 I'm open to collaboration.
+___
 Samuel is my given name but I like my tribal name more, "Koigor".
 It means _**fight the war**_. I was born toward the end of my country's civil war.
 I'm a Sierra Leonean from the Republic of Sierra Leone (West Africa).
@@ -11,13 +13,12 @@ but my first certificate (on going) is in Web and Computer Programming. However,
 because the tech world is never static, it's always up to something 😆.
 ___
 ## The Technologies I know:
-| Language | Repo | Level |
 | ----- | ----- | ----- |
-| HTML/CSS/SASS | sass | Proficient/Intermediate/Intermediate | 
-| PYTHON| python | Intermediate |
-| JAVASCRIPT | js | Intermediate |
+| HTML | CSS | SASS | 
+| PYTHON| JAVASCRIPT | C# |
+| GIT/GITHUB |   |   |
 ___
-🌱 I’m currently learning ... and 👯 I'm open to collaboration
+
 <!--
 **Koigor97/Koigor97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
