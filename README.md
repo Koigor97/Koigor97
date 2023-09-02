@@ -16,7 +16,7 @@ ___
 |   HTML    |  CSS | JAVASCRIPT |
 | :-----: | :------: | :------: |
 | SASS | PYTHON | C# | 
-| PGIT/GITHUB| ... | ... |
+| GIT/GITHUB| ... | ... |
 
 ___
 
