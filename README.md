@@ -26,7 +26,7 @@
 **Samuel** is my given name but I like my tribal name more, **"Koigor"**.
 It means _**fight the war**_. I was born toward the end of my country's civil war.
 I'm a Sierra Leonean from the Republic of Sierra Leone (West Africa).
-Home to beautiful people and beaches. As well as home to Idris Elba, Anthony Rudiger and many more.
+Home to beautiful people and beaches. 
 
 ---
 
