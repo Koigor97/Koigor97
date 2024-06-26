@@ -23,16 +23,14 @@
 
 ---
 
-**Samuel** is my given name but I like my tribal name more, **"Koigor"**.
-It means _**fight the war**_. I was born toward the end of my country's civil war.
-I'm a Sierra Leonean from the Republic of Sierra Leone (West Africa).
-Home to beautiful people and beaches. 
+**Samuel** is my given name but you can call me **"Koigor"**.
+It means _**fight the war**_. I'm a Sierra Leonean from the Republic of Sierra Leone (West Africa).
 
 ---
 
 I am student (online) of 🎓 [Brigham Young University](https://www.byu.edu) through the [BYU PathwayWorldwide Program](https://www.byupathway.org)  
 The goal ⚽ is to be a Software Developer 👨🏾‍💻 and this repository is a timeline of my journey in achieving that goal.  
-It houses repositories of programming languages learned, technical skills aquired, and projects built. My degree is in Software Development - and it's a Certificate-First structure. My first certificate (on going) is in Web and Computer Programming. However, I do take extra courses that is needed to attain my goal, because the tech world is never static, it's always up to something 😆
+It houses repositories of programming languages learned, technical skills aquired, and projects built. My degree is in Software Development.
 
 ---
 
