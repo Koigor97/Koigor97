@@ -23,9 +23,10 @@
 
 ---
 
-I am student (online) of 🎓 [Brigham Young University](https://www.byu.edu) through the [BYU PathwayWorldwide Program](https://www.byupathway.org)  
+I am student of 🎓 [Brigham Young University](https://www.byu.edu) (online) through the [BYU PathwayWorldwide Program](https://www.byupathway.org)  
 The goal ⚽ is to be a Software Developer 👨🏾‍💻 and this repository is a timeline of my journey in achieving that goal.  
 It houses repositories of programming languages learned, technical skills aquired, and projects built. My degree is in Software Development.
+I am from Sierra Leone 🇸🇱 but presently residing Pretoria, South Africa 🇿🇦.
 
 ---
 
