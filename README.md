@@ -18,7 +18,9 @@
     I'm Koigor 😎 
 </h1>  
 <h3>Software Development Student 👨🏾‍💻</h3>
-🌱 I’m currently learning ... and 👯 I'm open to collaboration.
+📚 Learning to lead while building
+🌱 Growing through grace, code, and community
+🔭 Projects: WetinHapin Helpdesk and WiLayt (on-going)
 </div>
 
 ---
