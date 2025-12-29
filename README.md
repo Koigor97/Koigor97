@@ -32,6 +32,10 @@ I am from Sierra Leone 🇸🇱 but presently residing Pretoria, South Africa �
 
 ---
 
+### Projects:
+* [LIA](https://www.getlia.live/)
+* [FlexiBook](https://flexibook-app.vercel.app/)
+
 ### :hammer_and_wrench: The Technologies I know:
 
 <div>
